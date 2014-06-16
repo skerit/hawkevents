@@ -1,0 +1,10 @@
+{
+	"name": "hawkevents",
+	"version": "0.1.0-alpha1",
+	"description": "A queryable event emitter",
+	"keywords": ["event", "events", "emitter", "eventemitter"],
+	"author": "Jelle De Loecker <jelle@kipdola.be>",
+	"license": "MIT",
+	"repository": "git://github.com/skerit/hawkevents.git",
+	"main": "./lib/hawkevents.js"
+}
